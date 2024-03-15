@@ -1,4 +1,4 @@
-# NLP - Clustering newssgroup clustering
+# NLP - Clustering newsgroup clustering
 
 The project, undertaken by a team of two, involved data preprocessing, visualizing textual data using the t-SNE technique and applying various clustering algorithms such as hierarchical clustering.
 
